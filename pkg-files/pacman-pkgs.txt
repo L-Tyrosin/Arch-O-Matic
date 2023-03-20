@@ -27,7 +27,6 @@ bluez-utils
 bridge-utils
 btrfs-progs
 celluloid
-cmatrix
 code
 cronie
 cups
@@ -44,7 +43,6 @@ fuse3
 fuseiso
 gamemode
 gcc
-gimp
 gparted
 gptfdisk
 grub-customizer
@@ -58,7 +56,6 @@ kitty
 libdvdcss
 libtool
 lsof
-lutris
 lzop
 m4
 make
@@ -74,9 +71,6 @@ patch
 picom
 pkgconf
 powerline-fonts
-pulseaudio
-pulseaudio-alsa
-pulseaudio-bluetooth
 python-notify2
 python-psutil
 python-pyqt5
@@ -86,7 +80,6 @@ snap-pac
 snapper
 steam
 swtpm
-synergy
 terminus-font
 traceroute
 ttf-droid
@@ -98,10 +91,6 @@ unzip
 virt-manager
 virt-viewer
 which
-wine-gecko
-wine-mono
-winetricks
 zip
-zsh
-zsh-syntax-highlighting
-zsh-autosuggestions
+
+easyeffects
