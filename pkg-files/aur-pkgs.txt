@@ -45,6 +45,7 @@ qalculate-qt
 skanpage
 telegram-desktop
 thunderbird
+thunderbird-i18n-de
 timeshift
 veracrypt
 vlc
