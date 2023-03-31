@@ -18,7 +18,6 @@ sddm-nordic-theme-git
 snapper-gui-git
 ttf-meslo
 vde2
---CUSTOM--
 proton-ge-custom
 android-sdk-platform-tools
 btop
