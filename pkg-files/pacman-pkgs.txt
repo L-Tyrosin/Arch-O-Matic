@@ -33,6 +33,7 @@ cups
 dialog
 dmidecode
 dnsmasq
+
 dtc
 efibootmgr
 egl-wayland
