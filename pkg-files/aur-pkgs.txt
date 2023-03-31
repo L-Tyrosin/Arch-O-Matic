@@ -47,6 +47,7 @@ telegram-desktop
 thunderbird
 timeshift
 veracrypt
+vlc
 vulscan
 wireguard-tools
 wps-office
