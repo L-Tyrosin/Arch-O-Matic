@@ -43,7 +43,6 @@ mullvad-vpn-beta
 nfs-utils
 pdftricks
 qalculate-qt
-reflector
 skanpage
 telegram-desktop
 thunderbird
