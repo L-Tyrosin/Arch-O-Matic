@@ -78,7 +78,6 @@ python-pip
 qemu
 snap-pac
 snapper
-steam
 swtpm
 terminus-font
 traceroute
@@ -92,5 +91,3 @@ virt-manager
 virt-viewer
 which
 zip
---ADDITIONAL PACKAGES--
-easyeffects
