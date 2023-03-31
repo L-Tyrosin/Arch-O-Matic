@@ -41,7 +41,6 @@ librewolf-extension-plasma-integration
 librewolf-ublock-origin
 mullvad-vpn-beta
 nfs-utils
-ntfs-3g
 pdftricks
 qalculate-qt
 reflector
