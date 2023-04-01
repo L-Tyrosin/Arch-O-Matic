@@ -23,6 +23,7 @@ android-sdk-platform-tools
 btop
 colord-kde
 displaycal
+pipewire-pulse
 easyeffects
 electronmail-bin
 exfat-utils
