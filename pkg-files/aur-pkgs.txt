@@ -53,4 +53,5 @@ vlc
 vulscan
 wireguard-tools
 wps-office
+ttf-wps-fonts
 wpscan
