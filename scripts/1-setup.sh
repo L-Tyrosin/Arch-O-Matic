@@ -48,7 +48,7 @@ sed -i "s/COMPRESSXZ=(xz -c -z -)/COMPRESSXZ=(xz -c -T $nc -z -)/g" /etc/makepkg
 fi
 echo -ne "
 -------------------------------------------------------------------------
-                    Setup Language to DE and set locale  
+                    Setup Language to US and set locale  
 -------------------------------------------------------------------------
 "
 sed -i 's/^#us_US.UTF-8 UTF-8/us_US.UTF-8 UTF-8/' /etc/locale.gen
