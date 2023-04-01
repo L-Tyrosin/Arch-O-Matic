@@ -51,11 +51,11 @@ echo -ne "
                     Setup Language to DE and set locale  
 -------------------------------------------------------------------------
 "
-sed -i 's/^#de_DE.UTF-8 UTF-8/de_DE.UTF-8 UTF-8/' /etc/locale.gen
+sed -i 's/^#us_US.UTF-8 UTF-8/us_US.UTF-8 UTF-8/' /etc/locale.gen
 locale-gen
 timedatectl --no-ask-password set-timezone ${TIMEZONE}
 timedatectl --no-ask-password set-ntp 1
-localectl --no-ask-password set-locale LANG="de_DE.UTF-8" LC_TIME="de_DE.UTF-8"
+localectl --no-ask-password set-locale LANG="us_US.UTF-8" LC_TIME="us_US.UTF-8"
 ln -s /usr/share/zoneinfo/${TIMEZONE} /etc/localtime
 # Set keymaps
 localectl --no-ask-password set-keymap ${KEYMAP}
