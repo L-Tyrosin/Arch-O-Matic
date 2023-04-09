@@ -2,7 +2,6 @@
 autojump
 bridge-utils
 dxvk-bin
-github-desktop-bin
 lightly-git
 lightlyshaders-git
 mangohud
@@ -21,8 +20,9 @@ vde2
 proton-ge-custom
 android-sdk-platform-tools
 btop
-colord-kde
 displaycal
+gnome-color-manager
+colord-kde
 pipewire-pulse
 easyeffects
 electronmail-bin
@@ -30,7 +30,6 @@ exfat-utils
 firefox
 freerdp
 geekbench
-gnome-color-manager
 gparted
 iperf3
 jdownloader2
