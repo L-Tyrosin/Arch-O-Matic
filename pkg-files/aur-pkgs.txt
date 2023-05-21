@@ -55,3 +55,4 @@ wireguard-tools
 wps-office
 ttf-wps-fonts
 wpscan
+github-desktop
