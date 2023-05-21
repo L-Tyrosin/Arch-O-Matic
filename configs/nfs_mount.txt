@@ -1,0 +1,41 @@
+
+yay nfs-utils
+sudo systemctl start nfs-client.target
+sudo systemctl enable nfs-client.target
+sudo systemctl status nfs-client.target
+
+
+### OPTION 1: FSTAB
+
+sudo mkdir /mnt/sharedfolder
+sudo chown ct: /mnt/sharedfolder
+sudo chmod 777 /mnt/sharedfolder
+
+sudo nano /etc/fstab
+
+192.168.1.201:/export/NAS_1_Media   /mnt/NAS_1_Media  nfs  _netdev,noauto,x-systemd.automount,x-systemd.mount-timeout=10,timeo=14,x-systemd.idle-timeout=1min 0 0
+
+192.168.1.201:/export/NAS_2_Data1   /mnt/NAS_2_Data1  nfs  _netdev,noauto,x-systemd.automount,x-systemd.mount-timeout=10,timeo=14,x-systemd.idle-timeout=1min 0 0
+
+192.168.1.201:/export/NAS_2_Data2   /mnt/NAS_2_Data2  nfs  _netdev,noauto,x-systemd.automount,x-systemd.mount-timeout=10,timeo=14,x-systemd.idle-timeout=1min 0 0
+
+
+### OPTION 2: AUTOFS (langsam)
+
+yay autofs
+sudo systemctl enable autofs
+sudo systemctl start autofs
+
+dolphin filemanager --> rechtsklick remote -> add entry
+nfs://192.168.1.201/export/
+
+
+
+spindown manuell
+sudo hdparm -Y /dev/sda
+
+spindown auto tweak falls nötig
+APM auf 255 einstellen in omv disk optionen
+
+export optionen:
+insecure, no_subtree_check, rw
