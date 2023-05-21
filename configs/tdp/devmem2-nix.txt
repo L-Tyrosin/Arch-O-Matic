@@ -1,0 +1,7 @@
+### devmem2 installed from nix
+which devmem2
+/home/ct/.nix-profile/bin/devmem2
+
+### Make a symlink in /usr/local/bin directory
+
+sudo cp -s /home/ct/.nix-profile/bin/devmem2 /usr/local/bin/devmem2

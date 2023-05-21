@@ -1,0 +1,24 @@
+
+
+yay colord-kde
+yay gnome-color-manager
+
+sudo cp [ICC/ICM] /usr/share/color/icc/colord/
+
+colormgr get-profiles
+colormgr get-devices
+colormgr device-add-profile [DEVICE ID] [PROFILE ID]
+
+#optional zum erstellen von color profiles
+yay displaycal
+
+#ASUS VC239 profile adden
+colormgr device-add-profile HDMI-A-2 icc-c203bfde440baed2d6fa44ba44640e26
+
+#sRGB profile adden
+colormgr device-add-profile HDMI-A-2 icc-fa8a9806449005e3e1a1abdfd569fd75
+
+#profile ändern
+colormgr device-make-profile-default HDMI-A-2 icc-c203bfde440baed2d6fa44ba44640e26
+
+colormgr device-make-profile-default HDMI-A-2 icc-fa8a9806449005e3e1a1abdfd569fd75
