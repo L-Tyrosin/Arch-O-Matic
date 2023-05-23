@@ -41,6 +41,7 @@ flex
 fuse2
 fuse3
 fuseiso
+lib32-gamemode
 gamemode
 gcc
 gparted
