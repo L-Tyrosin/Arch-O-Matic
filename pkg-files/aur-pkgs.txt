@@ -18,7 +18,6 @@ snap-pac-grub
 snapper-gui-git
 ttf-meslo
 vde2
-proton-ge-custom
 android-sdk-platform-tools
 btop
 displaycal
@@ -55,5 +54,4 @@ wireguard-tools
 wps-office
 ttf-wps-fonts
 wpscan
-github-desktop
 corectrl
