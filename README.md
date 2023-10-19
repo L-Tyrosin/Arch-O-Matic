@@ -17,10 +17,9 @@ If you don't want to build using this script I did create an image @ <https://ct
 From initial Prompt type the following commands:
 
 ```
-pacman -Sy git
-git clone https://github.com/L-Tyrosin/ArchTitus
-cd ArchTitus
-./archtitus.sh
+
+bash <(curl -L https://github.com/L-Tyrosin/ArchTitus)
+
 ```
 
 ### System Description
