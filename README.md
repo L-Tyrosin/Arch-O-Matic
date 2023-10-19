@@ -18,7 +18,10 @@ From initial Prompt type the following commands:
 
 ```
 
-bash <(curl -L https://github.com/L-Tyrosin/ArchTitus)
+pacman -Sy git
+git clone https://github.com/L-Tyrosin/ArchTitus
+cd ArchTitus
+./archtitus.sh
 
 ```
 
