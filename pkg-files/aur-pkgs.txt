@@ -4,7 +4,7 @@ bridge-utils
 dxvk-bin
 lightly-git
 lightlyshaders-git
-mangohud
+mangohud-git
 mangohud-common
 nerd-fonts-fira-code
 nordic-darker-standard-buttons-theme
