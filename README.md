@@ -17,7 +17,9 @@ If you don't want to build using this script I did create an image @ <https://ct
 From initial Prompt type the following commands:
 
 ```
-
+loadkeys de  # german keyboard
+pacman -Syy
+pacman -S archlinux-keyring
 pacman -Sy git
 git clone https://github.com/L-Tyrosin/ArchTitus
 cd ArchTitus
