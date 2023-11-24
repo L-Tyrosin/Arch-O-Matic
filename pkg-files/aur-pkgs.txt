@@ -25,6 +25,7 @@ gnome-color-manager
 colord-kde
 pipewire-pulse
 easyeffects
+lsp-plugins-lv2
 electronmail-bin
 exfat-utils
 firefox
