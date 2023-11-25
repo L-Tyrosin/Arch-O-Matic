@@ -38,7 +38,6 @@ keepassxc
 kwin-bismuth
 librewolf
 librewolf-extension-plasma-integration
-librewolf-ublock-origin
 mullvad-vpn-beta
 nfs-utils
 pdftricks
