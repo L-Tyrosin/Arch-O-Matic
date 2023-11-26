@@ -1,0 +1,9 @@
+yay cups
+yay cups-bjnp
+yay gutenprint
+
+/usr/lib/cups/backend/bjnp
+
+druckerverwaltung
+
+https://wiki.archlinux.de/title/Drucken_mit_Canon_MX_(PIXMA,_850,_etc.)
