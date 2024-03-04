@@ -38,3 +38,4 @@ systemsettings
 xdg-desktop-portal-kde
 zeroconf-ioslave
 qt5-imageformats
+kimageformats
