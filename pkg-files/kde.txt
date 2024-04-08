@@ -38,6 +38,8 @@ systemsettings
 xdg-desktop-portal-kde
 zeroconf-ioslave
 qt5-imageformats
+qt6-imageformats
+kimageformats5
 kimageformats
 sddm-kcm
 plasma5-integration
