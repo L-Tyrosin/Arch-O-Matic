@@ -16,13 +16,12 @@ kde-gtk-config
 kcodecs
 kcoreaddons
 kdeplasma-addons
-kgamma5
+kgamma
 kgpg
 kinfocenter
 konsole
 kscreen
-kvantum-qt5
-kwalletmanager
+kvantum
 kwayland-integration
 layer-shell-qt
 milou
