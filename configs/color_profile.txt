@@ -1,4 +1,4 @@
-
+#KDE Plasma 5 only, Plasma 6 has integrated color-manager in GUI
 
 yay colord-kde
 yay gnome-color-manager
