@@ -31,10 +31,19 @@ cd ArchTitus
 
 best experience: kde -> btrfs -> yay -> full
 
+Customize your package list under "pkg-files/aur-pkgs.txt" before running the script!
+
 This is completely automated arch install. It includes prompts to select your desired desktop environment, window manager, AUR helper, and whether to do a full or minimal install. The KDE desktop environment on arch includes all the packages I use on a daily basis, as well as some customizations.
 
 Added Chaotic-AUR 
 (Automated building repo for AUR packages)
+
+Appearance Settings in KDE Plasma (after install):
+Global Theme >> Breeze Dark
+Application Style >> Lightly
+Plasma Style >> Nordic
+Windows Decorations >> Lightly
+System Sounds >> Oxygen
 
 ## Troubleshooting
 
