@@ -55,3 +55,5 @@ corectrl
 joystickwake
 code
 code-features
+pipx
+
