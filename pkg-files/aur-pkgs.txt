@@ -53,3 +53,5 @@ wps-office
 ttf-wps-fonts
 corectrl
 joystickwake
+code
+code-features
