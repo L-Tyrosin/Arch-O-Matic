@@ -47,5 +47,3 @@ joystickwake
 code
 code-features
 pipx
-systemd-numlockontty
-
