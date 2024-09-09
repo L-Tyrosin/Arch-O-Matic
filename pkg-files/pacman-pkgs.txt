@@ -61,6 +61,7 @@ lsof
 lzop
 m4
 make
+nfs-utils
 ntfs-3g
 ntp
 openbsd-netcat
