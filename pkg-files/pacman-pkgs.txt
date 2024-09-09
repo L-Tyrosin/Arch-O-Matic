@@ -28,7 +28,6 @@ bridge-utils
 btop
 btrfs-progs
 celluloid
-code
 cronie
 cups
 dialog
