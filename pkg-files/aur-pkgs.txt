@@ -1,6 +1,5 @@
 --END OF MINIMAL INSTALL--
 autojump
-bridge-utils
 dxvk-bin
 lightly-qt6-git
 lightlyshaders-git
@@ -13,25 +12,23 @@ nordic-darker-theme
 nordic-theme
 ocs-url
 plymouth-git
-sddm-nordic-theme-git
 snapper-gui-git
 ttf-meslo
 vde2
 android-sdk-platform-tools
 btop
+htop
 displaycal
 pipewire-pulse
 easyeffects
 lsp-plugins-lv2
 electronmail-bin
-exfat-utils
 firefox
 freerdp
 gparted
 iperf3
 jdownloader2
 keepassxc
-kwin-bismuth
 librewolf
 librewolf-extension-plasma-integration
 mullvad-vpn-beta
