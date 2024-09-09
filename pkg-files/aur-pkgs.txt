@@ -23,7 +23,6 @@ lsp-plugins-lv2
 electronmail-bin
 firefox
 freerdp
-gparted
 iperf3
 jdownloader2
 keepassxc
