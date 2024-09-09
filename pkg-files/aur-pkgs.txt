@@ -10,7 +10,6 @@ mangohud-common
 nerd-fonts-fira-code
 nordic-darker-standard-buttons-theme
 nordic-darker-theme
-nordic-kde-git
 nordic-theme
 ocs-url
 plymouth-git
@@ -28,7 +27,6 @@ electronmail-bin
 exfat-utils
 firefox
 freerdp
-geekbench
 gparted
 iperf3
 jdownloader2
@@ -56,4 +54,5 @@ joystickwake
 code
 code-features
 pipx
+systemd-numlockontty
 
