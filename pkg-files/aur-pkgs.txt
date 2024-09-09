@@ -32,7 +32,6 @@ keepassxc
 librewolf
 librewolf-extension-plasma-integration
 mullvad-vpn-beta
-nfs-utils
 pdftricks
 qalculate-qt
 skanpage
