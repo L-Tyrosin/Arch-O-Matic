@@ -16,8 +16,6 @@ snapper-gui-git
 ttf-meslo
 vde2
 android-sdk-platform-tools
-btop
-htop
 displaycal
 pipewire-pulse
 easyeffects
