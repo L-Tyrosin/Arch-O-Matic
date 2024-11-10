@@ -1,8 +1,7 @@
 --END OF MINIMAL INSTALL--
 autojump
 dxvk-bin
-lightly-qt6-git
-lightlyshaders-git
+lightly-kf6-git
 lightlyshaders-plasma6-git
 mangohud-git
 mangohud-common
