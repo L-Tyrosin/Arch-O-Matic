@@ -1,8 +1,8 @@
 --END OF MINIMAL INSTALL--
 autojump
 dxvk-bin
-lightly-kf6-git
-lightlyshaders-plasma6-git
+darkly-qt6-git
+darkly-qt5-git
 mangohud-git
 mangohud-common
 nerd-fonts-fira-code
@@ -27,7 +27,7 @@ jdownloader2
 keepassxc
 librewolf
 librewolf-extension-plasma-integration
-mullvad-vpn-beta
+mullvad-vpn
 pdftricks
 qalculate-qt
 skanpage
