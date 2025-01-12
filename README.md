@@ -10,7 +10,6 @@ This README contains the steps I do to install and configure a fully-functional 
 
 Download ArchISO from <https://archlinux.org/download/> and put on a USB drive with [Etcher](https://www.balena.io/etcher/), [Ventoy](https://www.ventoy.net/en/index.html), or [Rufus](https://rufus.ie/en/)
 
-If you don't want to build using this script I did create an image @ <https://cttstore.com/arch-titus>
 
 ## Boot Arch ISO
 
@@ -39,10 +38,15 @@ Added Chaotic-AUR
 (Automated building repo for AUR packages)
 
 Appearance Settings in KDE Plasma (after install):
+
 Global Theme >> Breeze Dark
-Application Style >> Lightly
+
+Application Style >> Darkly
+
 Plasma Style >> Nordic
-Windows Decorations >> Lightly
+
+Windows Decorations >> Darkly
+
 System Sounds >> Oxygen
 
 ## Troubleshooting
