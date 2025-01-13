@@ -3,6 +3,7 @@ autojump
 dxvk-bin
 darkly-qt6-git
 darkly-qt5-git
+lightlyshaders-plasma6-git
 mangohud-git
 mangohud-common
 nerd-fonts-fira-code
