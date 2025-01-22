@@ -12,7 +12,6 @@ nordic-darker-theme
 nordic-theme
 ocs-url
 plymouth-git
-snapper-gui-git
 ttf-meslo
 vde2
 android-sdk-platform-tools
