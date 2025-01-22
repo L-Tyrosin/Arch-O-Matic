@@ -47,3 +47,5 @@ joystickwake
 code
 code-features
 pipx
+openfortivpn
+
