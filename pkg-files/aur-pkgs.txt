@@ -21,7 +21,6 @@ easyeffects
 lsp-plugins-lv2
 electronmail-bin
 firefox
-freerdp
 iperf3
 jdownloader2
 keepassxc
@@ -47,4 +46,5 @@ code
 code-features
 pipx
 openfortivpn
-
+freerdp-git
+remmina
