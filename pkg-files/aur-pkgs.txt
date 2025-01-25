@@ -10,10 +10,8 @@ nerd-fonts-fira-code
 nordic-darker-standard-buttons-theme
 nordic-darker-theme
 nordic-theme
-ocs-url
 plymouth-git
 ttf-meslo
-vde2
 android-sdk-platform-tools
 displaycal
 pipewire-pulse
