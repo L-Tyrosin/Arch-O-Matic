@@ -60,6 +60,7 @@ lsof
 lzop
 m4
 make
+mission-center
 nfs-utils
 ntfs-3g
 ntp
