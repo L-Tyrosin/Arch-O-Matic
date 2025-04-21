@@ -1,6 +1,5 @@
 --END OF MINIMAL INSTALL--
 autojump
-dxvk-bin
 darkly-qt6-git
 darkly-qt5-git
 lightlyshaders-plasma6-git
