@@ -47,7 +47,7 @@ Plasma Style >> Nordic
 
 Windows Decorations >> Darkly
 
-System Sounds >> Oxygen
+Desktop Effects >> Lightlyshaders
 
 ## Troubleshooting
 
