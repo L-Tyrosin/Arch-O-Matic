@@ -20,7 +20,7 @@ loadkeys de  # german keyboard
 pacman -Syy
 pacman -S archlinux-keyring
 pacman -Sy git
-git clone https://github.com/L-Tyrosin/ArchTitus
+git clone https://github.com/L-Tyrosin/Arch-O-Matic
 cd ArchTitus
 ./archtitus.sh
 
