@@ -1,3 +1,7 @@
+#### beinhaltet Desktop Einstellungen
+#### Leiste mit Programmen, Hintergrund, Monitor Widget,...
+### wichtig vor allem Containment 37 Applets
+
 [ActionPlugins][0]
 RightButton;NoModifier=org.kde.contextmenu
 wheel:Vertical;NoModifier=org.kde.switchdesktop
