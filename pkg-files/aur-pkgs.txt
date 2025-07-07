@@ -45,3 +45,5 @@ pipx
 openfortivpn
 freerdp-git
 remmina
+konsave
+
