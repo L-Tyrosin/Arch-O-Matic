@@ -1,0 +1,11 @@
+[4739540c-dfb8-4a38-9131-78c525eb904b]
+Description=Programm-Einstellungen für org.kde.konsole
+opacityactive=90
+opacityactiverule=2
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=1
+rules=4739540c-dfb8-4a38-9131-78c525eb904b
