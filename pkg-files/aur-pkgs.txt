@@ -21,8 +21,6 @@ firefox
 iperf3
 jdownloader2
 keepassxc
-librewolf
-librewolf-extension-plasma-integration
 mullvad-vpn
 pdftricks
 qalculate-qt
