@@ -77,7 +77,7 @@ python-notify2
 python-psutil
 python-pyqt5
 python-pip
-qemu
+qemu-desktop
 snapper
 swtpm
 terminus-font
