@@ -35,7 +35,7 @@ vulscan
 wireguard-tools
 wps-office
 ttf-wps-fonts
-corectrl
+lact
 joystickwake
 code
 code-features
