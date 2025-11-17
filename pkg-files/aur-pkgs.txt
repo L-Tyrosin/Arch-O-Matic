@@ -39,7 +39,7 @@ lact
 joystickwake
 code
 code-features
-pipx
+python-pipx
 openfortivpn
 freerdp-git
 remmina
