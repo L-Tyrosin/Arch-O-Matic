@@ -78,7 +78,6 @@ python-psutil
 python-pyqt5
 python-pip
 qemu-desktop
-snapper
 swtpm
 terminus-font
 traceroute
