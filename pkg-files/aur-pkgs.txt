@@ -1,7 +1,6 @@
 --END OF MINIMAL INSTALL--
 autojump
 darkly-qt6-git
-darkly-qt5-git
 kwin-effect-rounded-corners-git
 mangohud-git
 mangohud-common
