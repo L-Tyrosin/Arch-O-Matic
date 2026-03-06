@@ -40,7 +40,7 @@ code
 code-features
 python-pipx
 openfortivpn
-freerdp-git
+freerdp
 remmina
 konsave
 
