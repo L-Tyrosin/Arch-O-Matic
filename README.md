@@ -43,11 +43,11 @@ Global Theme >> Breeze Dark
 
 Application Style >> Darkly
 
-Plasma Style >> Nordic
+Plasma Style >> Darkly
 
 Windows Decorations >> Darkly
 
-Desktop Effects >> Lightlyshaders
+Desktop Effects >> Rounded Corners
 
 ## Troubleshooting
 
