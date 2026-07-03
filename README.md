@@ -1,5 +1,4 @@
-# ArchTitus Installer Script
-[![GitHub Super-Linter](https://github.com/ChrisTitusTech/ArchTitus/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+# Arch Installer Script
 
 <img src="https://i.imgur.com/YiNMnan.png" />
 
@@ -72,16 +71,3 @@ After unblocking the WiFi, you can connect to it. Go through these 5 steps:
 #4: Run `station [device name] get-networks`
 
 #5: Find your network, and run `station [device name] connect [network name]`, enter your password and run `exit`. You can test if you have internet connection by running `ping google.com`, and then Press Ctrl and C to stop the ping test.
-
-## Reporting Issues
-
-An issue is easier to resolve if it contains a few important pieces of information.
-1. Chosen configuration from /configs/setup.conf (DONT INCLUDE PASSWORDS)
-1. Errors seen in .log files
-1. What commit/branch you used
-1. Where you were installing (VMWare, Virtualbox, Virt-Manager, Baremetal, etc)
-    1. If a VM, what was the configuration used.
-## Credits
-
-- Original packages script was a post install cleanup script called ArchMatic located here: https://github.com/rickellis/ArchMatic
-- Thank you to all the folks that helped during the creation from YouTube Chat! Here are all those Livestreams showing the creation: <https://www.youtube.com/watch?v=IkMCtkDIhe8&list=PLc7fktTRMBowNaBTsDHlL6X3P3ViX3tYg>
