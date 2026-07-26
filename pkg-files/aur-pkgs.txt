@@ -43,4 +43,4 @@ openfortivpn
 freerdp
 remmina
 konsave
-
+plasma6-applets-panel-colorizer
