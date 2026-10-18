@@ -46,6 +46,8 @@ Plasma Style >> Darkly
 
 Windows Decorations >> Darkly
 
+Icons >> Kora
+
 Desktop Effects >> Rounded Corners
 
 ## Troubleshooting
