@@ -13,7 +13,6 @@ gwenview
 kate
 kde-gtk-config
 kdeplasma-addons
-kgamma
 kgpg
 kinfocenter
 kio-zeroconf
