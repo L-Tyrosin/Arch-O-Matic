@@ -27,7 +27,6 @@ bluez-utils
 bridge-utils
 btop
 btrfs-progs
-celluloid
 cronie
 cups
 dialog
